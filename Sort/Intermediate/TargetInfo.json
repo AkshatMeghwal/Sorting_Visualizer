@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sort",
+			"Path": "X:\\Unreal Projects\\Sort\\Source\\Sort.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SortEditor",
+			"Path": "X:\\Unreal Projects\\Sort\\Source\\SortEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

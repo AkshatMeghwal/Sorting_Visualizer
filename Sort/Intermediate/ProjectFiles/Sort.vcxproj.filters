@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sort.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sort.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SortEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Sort">
+      <UniqueIdentifier>{BA576CE8-BB62-3405-B3A5-C91EA94971C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sort\Sort.Build.cs">
+      <Filter>Source\Sort</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sort\Sort.cpp">
+      <Filter>Source\Sort</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sort\Sort.h">
+      <Filter>Source\Sort</Filter>
+    </ClInclude>
+    <Filter Include="Source\Sort\Private">
+      <UniqueIdentifier>{2EFCAE9F-D438-3F81-A05C-690EAC520835}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sort\Private\MyActor.cpp">
+      <Filter>Source\Sort\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Sort\Private\Items">
+      <UniqueIdentifier>{50EAC345-8AA0-3A79-9462-1E9665847F20}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sort\Private\Items\Nums.cpp">
+      <Filter>Source\Sort\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\Sort\Public">
+      <UniqueIdentifier>{D7D58A62-B450-3F83-B485-D2B5147B201E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Sort\Public\MyActor.h">
+      <Filter>Source\Sort\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\Sort\Public\Items">
+      <UniqueIdentifier>{6C03E791-DBFC-3F58-991C-4E5CE7014ED3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Sort\Public\Items\Nums.h">
+      <Filter>Source\Sort\Public\Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

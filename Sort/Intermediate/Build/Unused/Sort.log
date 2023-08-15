@@ -1,0 +1,19 @@
+﻿  'crumb' is not recognized as an internal or external command,
+  operable program or batch file.
+  Using bundled DotNet SDK
+  Log file: C:\Users\aksha\AppData\Local\UnrealBuildTool\Log.txt
+  Building SortEditor...
+  Using Visual Studio 2022 14.36.32532 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Sort unity file: Nums.cpp, MyActor.cpp, Sort.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 6.78 GB available: limiting max parallel actions to 4
+  Building 4 actions with 4 processes...
+  [1/4] Compile MyActor.cpp
+  [2/4] Link UnrealEditor-Sort.lib
+     Creating library X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\UnrealEditor-Sort.lib and object X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\UnrealEditor-Sort.exp
+  [3/4] Link UnrealEditor-Sort.dll
+     Creating library X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\UnrealEditor-Sort.suppressed.lib and object X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\UnrealEditor-Sort.suppressed.exp
+  [4/4] WriteMetadata SortEditor.target
+  Total time in Parallel executor: 1.88 seconds
+  Total execution time: 2.46 seconds

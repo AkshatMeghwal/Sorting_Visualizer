@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\unreal projects\\sort\\intermediate\\build\\win64\\unrealeditor\\inc\\sort\\sort.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unreal projects\\sort\\intermediate\\build\\win64\\sorteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "x:\\unreal projects\\sort\\intermediate\\build\\win64\\unrealeditor\\development\\sort\\definitions.sort.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

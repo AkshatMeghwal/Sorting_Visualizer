@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Sort.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\SortEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\Nums.cpp.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\MyActor.cpp.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\Sort.cpp.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\MyActor.gen.cpp.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\Nums.gen.cpp.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\Sort.init.gen.cpp.obj"
+"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\Default.rc2.res"
+/OUT:"X:\Unreal Projects\Sort\Intermediate\Build\Win64\UnrealEditor\Development\Sort\UnrealEditor-Sort.lib"
